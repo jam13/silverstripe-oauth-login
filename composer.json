@@ -10,8 +10,14 @@
 		}
 	],
 	"license": "BSD-3-Clause",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/jam13/silverstripe-oauth"
+		}
+	],
 	"require": {
-		"bigfork/silverstripe-oauth": "^0.3",
+		"bigfork/silverstripe-oauth": "dev-master",
         "silverstripe/framework": "^3.3"
 	},
 	"require-dev": {
