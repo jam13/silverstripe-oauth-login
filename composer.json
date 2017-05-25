@@ -17,7 +17,7 @@
 		}
 	],
 	"require": {
-		"bigfork/silverstripe-oauth": "dev-master",
+		"bigfork/silverstripe-oauth": "dev-feature/new-oauth",
         "silverstripe/framework": "^3.3"
 	},
 	"require-dev": {
